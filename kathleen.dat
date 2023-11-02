@@ -1,4 +1,4 @@
-3
+4
 3 2
 LosAngeles SanFrancisco Seattle
 LosAngeles SanFrancisco
@@ -11,3 +11,7 @@ ShangHai Boston
 Boston Austin
 Austin Denver
 Denver ShangHai
+4 2
+a b c d
+a b
+c d
